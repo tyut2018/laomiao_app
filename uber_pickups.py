@@ -21,5 +21,4 @@ data = load_data()
 data_load_state.text('数据导入完成')
 
 st.subheader('城南与城北地区历年常住人口（万人）')
-data = pd.DataFrame(data)
 st.write(data)
