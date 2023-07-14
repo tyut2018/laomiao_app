@@ -7,7 +7,7 @@ import numpy as np
 st.title('北京市数据')
 
 data_url = (
-    'D:/mapp/uber-raw-data/uber-raw-data-sep14.csv')
+    'https://github.com/tyut2018/laomiao_app/blob/main/uber-raw-data-sep14.csv')
 
 
 # @st.cache_data
