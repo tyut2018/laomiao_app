@@ -12,7 +12,7 @@ data_url = (
 
 # @st.cache_data
 def load_data():
-    data = pd.read_csv(data_url)
+    data = pd.read_csv(data_url,encoding='gbk')
     return data
 
 
