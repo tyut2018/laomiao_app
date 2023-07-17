@@ -35,7 +35,7 @@ openssl=3.0.7=hcfcfb64_0
 packaging=23.1=pypi_0
 pandas=2.0.3=pypi_0
 pillow=9.5.0=pypi_0
-pip=22.3.1=pyhd8ed1ab_0
+pip=23.2=pypi_0
 prettytable=3.8.0=pypi_0
 protobuf=4.23.4=pypi_0
 pyarrow=12.0.1=pypi_0
